@@ -231,4 +231,10 @@ LLaVA-1.5 등 VLM 기반 구조는 이미지 속 인물의 분위기, 상황 등
 
 > Flask 서버는 ngrok을 통해 외부에서도 접속 가능하게 구성
 
+## Flask 시연
 
+---
+![Flask1](images/flask1.gif)
+![flask2](images/flask2.gif)
+
+---
